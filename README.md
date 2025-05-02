@@ -41,6 +41,7 @@ My analysis consisted of 3 steps:
 
 ## Findings
 ![image](https://github.com/user-attachments/assets/d5379985-98d0-4eab-ad86-76d1dc791973)
+
 The image above shows the results of reliability analysis to assess the internal consistency of the items within each dimension. I also used this analysis to elimintate questons that lowered the consistency within each of the dimensions. Items with an item-to-total correlation of less than .4 were discarded from final analysis. Final analyses were conducted on 105 questions. 
 
 
